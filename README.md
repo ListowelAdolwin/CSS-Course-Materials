@@ -1,9 +1,9 @@
 # Synopsis
-Included here are course materials relevant for studies in BSc Computer Science.
+Included here are course materials relevant for studies in BSc Computer Science. <br/>
 It covers from first year to final year.
 
 ## Courses
-The courses covered here are the total of 60 courses covered in the Computer Science Department
+The courses covered here are the total of 60 courses covered in the Computer Science Department <br/>
 In each course, are past questions you can use to test how prepared you are in a course.
 
 ## Projects
