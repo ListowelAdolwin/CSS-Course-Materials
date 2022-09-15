@@ -11,4 +11,4 @@ There are projects included in some courses. These projects will help sharpen yo
 particular course.
 
 ## How to contribute?
-Fork this repository, add your contribution and create a pull request. It will be reviewed and merged, it need be.
+Fork this repository, add your contribution and create a pull request. It will be reviewed and merged, if need be.
