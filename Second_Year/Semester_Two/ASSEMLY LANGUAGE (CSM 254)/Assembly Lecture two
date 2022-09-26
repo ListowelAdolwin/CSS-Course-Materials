@@ -1,0 +1,19 @@
+						PARITY
+						
+Parity is an error detection mechanism in computing. 
+Unlike other mechanisms(e.g Hamming code), parity is able to correct the  errors
+One bit in a character is the parity bit.
+We have even and odd parities. 
+The parity bit is at the least significant(The rightmost) bit of the character
+The number of 1s(ons) tells whether the parity is odd or even.
+When the number of 1s is even, the parity bit is represented by 0 and that is an even parity
+53 - 42
+42 - 
+msb and lsb(High order byte and low order byte respectively)
+
+
+
+						LECTURE FOUR
+
+
+
